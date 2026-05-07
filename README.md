@@ -7,5 +7,6 @@ cd "{PATH}\GoAnimate4Schools-master"
 npm install
 npm start
 ```
-**When done, go to your web browser and navigate to `localhost`.**
+**When done, go to your web browser and navigate to `localhost`.** nig mema this
+
 
